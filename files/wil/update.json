@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "wil",
+  "repo": "masdarno/wil",
+  "files": {
+     "include": ["wil.min.js"]
+  }
+}
